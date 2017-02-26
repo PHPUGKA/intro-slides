@@ -1,0 +1,14 @@
+{
+  "name": "intro-slides",
+  "description": "A reveal.js template for UG table of content",
+  "version": "0.1.0",
+  "license" : "MIP",
+  "dependencies": {
+    "reveal.js": "^3.4"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/npm/npm.git"
+  }
+}
